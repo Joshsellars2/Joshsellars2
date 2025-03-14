@@ -12,6 +12,9 @@
 ### 📜 Certifications
 - **Google Cybersecurtity certifications** (In Progress)
 - Developing expertise in cybersecurity fundamentals, threat detection, and network security.
+-  [Foundations of Cybersecurity 1.pdf](https://github.com/user-attachments/files/19252057/Foundations.of.Cybersecurity.1.pdf)
+-[Play It Safe Manage Security Risks 2.pdf](https://github.com/user-attachments/files/19252071/Play.It.Safe.Manage.Security.Risks.2.pdf)
+-[Connect and Protect Networks and Network security.pdf](https://github.com/user-attachments/files/19252074/Connect.and.Protect.Networks.and.Network.security.pdf)
 
 ### 💻 Projects
 
