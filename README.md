@@ -15,6 +15,8 @@
 -  [Foundations of Cybersecurity 1.pdf](https://github.com/user-attachments/files/19252057/Foundations.of.Cybersecurity.1.pdf)
 -[Play It Safe Manage Security Risks 2.pdf](https://github.com/user-attachments/files/19252071/Play.It.Safe.Manage.Security.Risks.2.pdf)
 -[Connect and Protect Networks and Network security.pdf](https://github.com/user-attachments/files/19252074/Connect.and.Protect.Networks.and.Network.security.pdf)
+  - [Tools of the Trade Linux and SQL 4.pdf](https://github.com/user-attachments/files/19298668/Tools.of.the.Trade.Linux.and.SQL.4.pdf)
+
 
 ### 💻 Projects
 
